@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Dwarf-Fortress-Save-Utility` · Updated: 2026-10-07
+`Dwarf-Fortress-Save-Utility` · Updated: 2026-10-24
 
 **Tags:** `dwarf-fortress` `savegame` `simulation` `colony` `fantasy`
